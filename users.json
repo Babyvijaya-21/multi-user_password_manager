@@ -1,0 +1,32 @@
+{
+    "aswin ": {
+        "password": "1234567",
+        "key": "bjwIKqDiYwpAU0rg6mWZK5bkPikP0zpoyPHDCsKHSoA=",
+        "passwords": {
+            "GITHUB": {
+                "user_id": "aswin_kumar12",
+                "password": "gAAAAABnSIMXP6tdmlthuhXOiImUwBUSFOObrdhwmCS5XLWsRrDvVt1hWZum2R8qts_VgNNVdP_U9uaiqYPEqjXEzZus38JVLw=="
+            },
+            "CODECHEF": {
+                "user_id": "Aswin_kumar",
+                "password": "gAAAAABnSIMzc0YB-WhNvVicEEmfeKebX8XylmsVqONvAXl40O39uQXrLwyymWXk2CVBpKav9bu4ePavKKbxT45hcEr_5GnvuQ=="
+            },
+            "LINKEDIN": {
+                "user_id": "Aswin-kumar",
+                "password": "gAAAAABnSINPEnE5IxZndfz6TqDnPg7r-u-5h_B8xB4JboIgKiL2VdhQNxygqbpneOc2G5eI1nBgUmH18jTqGsa10UKkNqwBtg=="
+            },
+            "LEETCODE": {
+                "user_id": "aswin_kumar",
+                "password": "gAAAAABnSIv0vvFxiRZLR7amfkRPMyOCvTfFUDdH2JSW9E2tvUZXCoUE_9YlhUvO4ksqSHDJ2lWLjWZBdJL4AyZtcz4mAW8pzg=="
+            },
+            "BRAINLY": {
+                "user_id": "Aswin_kumar",
+                "password": "gAAAAABnSIwfNI-nJcGAEIw2EHdiL-kPZXTlUEwTD5dcqOj69UQnjdZwmBiXAHrmVh7PhGP0p3u8hnKzDAGvN6aXH7fYrofsfQ=="
+            },
+            "UNACADEMY": {
+                "user_id": "Aswin_kumar",
+                "password": "gAAAAABnSIxEw9AqSLpSwamuR0XnfehVtkz-wroKIeI8vUwIMacZlHKfoqsjB4goKTrFhQRGq7BEH3V-JB6ZZuq3j4Ih3Q6Pmg=="
+            }
+        }
+    }
+}
